@@ -3,4 +3,4 @@
 
  Repositório criado durante uma live gravada
 
-Essa linha eu adicionei diretamento no site, que impressionante!
+ Essa linha eu adicionei diretamento no site, que impressionante!
